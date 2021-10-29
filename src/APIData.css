@@ -1,0 +1,28 @@
+.container{
+  align-content: center;
+  text-align: center;
+  align-items: center;
+  width: 60%;
+  
+}
+
+
+table{
+align-content: center;
+text-align: center;
+}
+
+td{
+    text-align:center;
+    padding:10px;
+}
+
+tr{
+  padding:15px;
+}
+th{
+    background-color: cadetblue;
+    font-size:larger;
+    padding: 14px;
+
+}
